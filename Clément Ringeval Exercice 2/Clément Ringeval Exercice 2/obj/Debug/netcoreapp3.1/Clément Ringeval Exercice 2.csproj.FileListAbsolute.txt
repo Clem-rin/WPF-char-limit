@@ -1,0 +1,21 @@
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\bin\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.exe
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\bin\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.deps.json
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\bin\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.runtimeconfig.json
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\bin\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.runtimeconfig.dev.json
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\bin\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.dll
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\bin\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.pdb
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.csprojAssemblyReference.cache
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\LimitCharUC.g.cs
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2_MarkupCompile.cache
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2_MarkupCompile.lref
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\LimitCharUC.baml
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.g.resources
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.AssemblyInfoInputs.cache
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.AssemblyInfo.cs
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.csproj.CoreCompileInputs.cache
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.dll
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.pdb
+D:\Programs Files\Programmation\C#\Clément Ringeval Exercice 2\Clément Ringeval Exercice 2\obj\Debug\netcoreapp3.1\Clément Ringeval Exercice 2.genruntimeconfig.cache
